@@ -1,0 +1,5 @@
+Error parsing line 'Person;Jerry;;': Person data line must have 3 fields. [skipped]
+Error parsing line 'Person;Jim;2342;': Person data line must have 3 fields. [skipped]
+Error parsing line 'Car;BMW;55': Data line must be Person, Teacher or Student. [skipped]
+Error parsing line '': Data line must be Person, Teacher or Student. [skipped]
+Error parsing line 'Student;;;;': Name must be 1-50 characters, no semicolons. [skipped]

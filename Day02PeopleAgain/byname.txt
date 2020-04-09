@@ -1,0 +1,6 @@
+Person;Jerry;23
+Person;Timmy;44
+Student;Martin;31;Math;4
+Student;Mary;34;Nursing;3.8
+Teacher;Larry;51;Physics;22
+Teacher;Randy;66;PhysEd;33
